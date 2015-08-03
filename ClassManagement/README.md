@@ -15,11 +15,11 @@
 
 **개발 인원** : 1명
 
-**저장소 주소** : [Git 주소](https://github.com/abiles/DBProject2014)
+[**저장소 주소**](https://github.com/abiles/DBProject2014)
 
 ## **ScreenShots**
 ----
-![a](img/DBproject1.png)<br>
-![b](img/DBproject2.png)<br>
-![c](img/DBproject3.png)<br>
+![a](img/DBproject1.PNG)<br>
+![b](img/DBproject2.PNG)<br>
+![c](img/DBproject3.PNG)<br>
 
