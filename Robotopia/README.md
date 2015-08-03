@@ -14,6 +14,6 @@
 
 ## **ScreenShots**
 ----
-![a](img/Robo1.png)<br>
-![b](img/Robo2.png)<br>
+![a](img/Robo1.PNG)<br>
+![b](img/Robo2.PNG)<br>
 
