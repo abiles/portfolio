@@ -15,7 +15,7 @@
 
 **개발 인원** : 1명
 
-[**저장소 주소**](https://github.com/abiles/DBProject2014)
+[**Git 주소**](https://github.com/abiles/DBProject2014)
 
 ## **ScreenShots**
 ----
