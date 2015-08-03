@@ -12,7 +12,7 @@
 
 **자세한 설명** : [최종보고서](https://github.com/jwvg0425/ProjectArthas/wiki/%EB%B3%B4%EA%B3%A0%EC%84%9C)
 
-**저장소 위치** : [Git 주소](https://github.com/jwvg0425/ProjectArthas/tree/semester-final)
+[**Git 주소**](https://github.com/jwvg0425/ProjectArthas/tree/semester-final)
 
 ## **ScreenShots**
 ----
