@@ -15,7 +15,6 @@
 [**Git 주소**](https://github.com/jwvg0425/ProjectArthas/tree/semester-final)
 
 ## **ScreenShots**
-----
 ![a](img/Robo1.PNG)<br>
 ![b](img/Robo2.PNG)<br>
 
