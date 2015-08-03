@@ -1,19 +1,25 @@
 # Robotopia
 
-**사용 언어** : C++
+**사용 언어** : C++, MySQL
 
 **사용 프레임워크** : Cocos2d-x
 
-**설명** : 록맨 스타일의 1인 액션게임
+**설명** 
+- 수강 이력 관리 시스템
+- 수강한 과목에 대해서 어떤 내용을 몇 주차에 공부했는지 알 수 있음
+- 배운 내용에 대해서 검색 가능
+- 새롭게 과목 추가하거나 과목 삭제 가능
+- 주차별 배운 내용 추가 가능
 
-**역할** : 장비 선택 Scene, 미사일 관련 내용, 이펙트, 카메라
+**역할** : DB, Cocos2d-x 프로그래밍
 
-**개발 인원** : 4명
+**개발 인원** : 1명
 
-**자세한 설명** : [최종보고서](https://github.com/jwvg0425/ProjectArthas/wiki/%EB%B3%B4%EA%B3%A0%EC%84%9C)
+**저장소 주소** : [Git 주소](https://github.com/abiles/DBProject2014)
 
 ## **ScreenShots**
 ----
-![a](img/Robo1.png)<br>
-![b](img/Robo2.png)<br>
+![a](img/DBproject1.png)<br>
+![b](img/DBproject2.png)<br>
+![c](img/DBproject3.png)<br>
 
